@@ -1,3 +1,6 @@
+fetched data from  JSONplaceholder [JSONplaceholder](https://jsonplaceholder.typicode.com/)
+and from RoboHash[RoboHash](https://robohash.org/)
+
 ![MonstersRolodex](https://media.giphy.com/media/jtvED6pGflAu7A6vtQ/giphy.gif)
 
 
