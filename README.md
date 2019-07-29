@@ -1,3 +1,7 @@
+![MonstersRolodex](https://media.giphy.com/media/jtvED6pGflAu7A6vtQ/giphy.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
